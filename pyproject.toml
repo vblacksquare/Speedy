@@ -3,8 +3,8 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "Jsonified"
+name = "Speeedy"
 version = "0.0.1"
-description = "Jsonified"
+description = "Speeedy"
 authors = [{ name = "Denis Minka", email = "minka.denis@gmail.com" }]
 dependencies = []
