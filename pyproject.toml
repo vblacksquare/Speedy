@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Speeedy"
-version = "0.0.2"
+version = "0.0.3"
 description = "Speeedy"
 authors = [{ name = "Denis Minka", email = "minka.denis@gmail.com" }]
 dependencies = []

@@ -16,3 +16,6 @@ class Speeedy:
 
     def add(self):
         self.count += 1
+
+    def clear(self):
+        self.__init__()
